@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LocationFinder</string>
+    <string name="tview1">  Latitude </string>
+    <string name="tview2">  Longitude </string>
+    <string name="button1"> Generate </string>
+    <string name="address"> Enter an Address </string>
+    <string name="View">  View </string>
+    <string name="Add">  Add </string>
+    <string name="Update">  Update </string>
+    <string name="Delete"> Delete </string>
+    <string name="Search"> Search </string>
+</resources>
